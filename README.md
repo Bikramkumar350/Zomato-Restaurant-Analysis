@@ -1,4 +1,5 @@
 🍽️ Zomato Restaurant Analysis
+
 📖 Project Overview
 
 The Zomato Restaurant Analysis project focuses on extracting actionable insights from restaurant data using Exploratory Data Analysis (EDA) techniques. The objective is to understand customer behavior, identify key factors influencing restaurant ratings, and analyze trends across different locations and cuisines.
