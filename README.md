@@ -70,7 +70,7 @@ Zomato-Restaurant-Analysis/
 Prerequisites
 Ensure you have Python installed along with the required libraries.
 Installation
-git clone https://github.com/your-username/zomato-restaurant-analysis.git
+git clone https://github.com/Bikramkumar350/Zomato-Restaurant-Analysis.git
 cd zomato-restaurant-analysis
 pip install -r requirements.txt
 Run the Project
